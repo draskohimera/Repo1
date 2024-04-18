@@ -3,13 +3,11 @@ Steps:
 1.	Examine the chunks generated from the extracted code.
 2.	Verify that the code chunks are divided based on provided parameters
 3.	Ensure that the code chunks are manageable and appropriately sized.
-
 Description: Verify that the tool effectively chunks the extracted documentation from GitHub.
 Steps:
 1.	Examine the chunks generated from the extracted documentation.
 2.	Verify that the documentation chunks are logically divided based on sections, headings, or other relevant criteria.
 3.	Ensure that the documentation chunks are easy to navigate.
-
 Test case: Testing with Different Overlaps:
 Steps:
 •	Use the same GitHub repository with textual files.
