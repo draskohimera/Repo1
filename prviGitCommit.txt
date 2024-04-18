@@ -1,13 +1,9 @@
-UrosM je dodao ovu liniju kodagi
-Ivan Blazevic je dodao ovu liniju koda
-Stefan Dusan je dodao ovu liniju koda
-Milos Djordjevic je dodao ovu liniju koda
-Stefan Lazarevic je dodao ovu liniju koda
-Milos Joksimovic je dodoao ovu liniju koda.
-Ivan Djordjevic je dodao ovu liniju koda.
-Katarina Simonovic je dodala ovu liniju koda.
-Jelena Rakic je dodala ovu liniju koda.
-Anica Smolovic je dodala ovu liniju koda.
-Stefan Radulovic je dodao novu liniju koda.
-Drasko Simic je dodao ovu liniju koda dsfsdfsdf  dsfdsf
-5d5b5e15e7c991044bde46db30ae690f94045ec2
+Test case: Testing cloning of a specific branch:
+Steps:
+•	Prepare a valid URL address of the repository and specify branch. 
+•	Check whether the repository is successfully cloned to the selected path and if the specified branch is cloned.
+
+Test case: Testing successful cloning of the main branch in this format (https://github.com/username/repository.git):
+Steps:
+•	Prepare a valid URL address of the repository - https://github.com/draskohimera/predavanje16.git
+•	Verify that the repository is successfully cloned to the selected path.
