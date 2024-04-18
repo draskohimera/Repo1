@@ -1,7 +1,17 @@
-https://www.youtube.com/watch?v=33a71Ldbp3Y - Milos Djordjevic je dodao ovo!!!
-2. https://www.youtube.com/watch?v=5ClCaPmAA7s - Stefan Lazarevic added line! (Hteo sam Halida, ali kad si vec krenuo rock... :D )
-3. https://www.youtube.com/watch?v=t2a8fuTEpqw - Radulovic Stefan added line.
-4. Stefan Radulovic added new line.
-Milos Djordjevic je dodao drugu liniju.
-6. Stefan Lazarevic added second line!!
-7.Stefan Radulovic added 3rd line.
+Description: Verify that the tool effectively chunks the extracted code from GitHub.
+Steps:
+1.	Examine the chunks generated from the extracted code.
+2.	Verify that the code chunks are divided based on provided parameters
+3.	Ensure that the code chunks are manageable and appropriately sized.
+
+Description: Verify that the tool effectively chunks the extracted documentation from GitHub.
+Steps:
+1.	Examine the chunks generated from the extracted documentation.
+2.	Verify that the documentation chunks are logically divided based on sections, headings, or other relevant criteria.
+3.	Ensure that the documentation chunks are easy to navigate.
+
+Test case: Testing with Different Overlaps:
+Steps:
+•	Use the same GitHub repository with textual files.
+•	Set the txt_chunk_overlap parameter to different values, 50, 100, and 200 characters.
+•	Verify how the overlap affects the division of textual files and whether the results are as expected.
