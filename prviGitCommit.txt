@@ -10,4 +10,4 @@ Jelena Rakic je dodala ovu liniju koda.
 Anica Smolovic je dodala ovu liniju koda.
 Stefan Radulovic je dodao novu liniju koda.
 Drasko Simic je dodao ovu liniju koda dsfsdfsdf  dsfdsf
->>>>>>> 5d5b5e15e7c991044bde46db30ae690f94045ec2
+5d5b5e15e7c991044bde46db30ae690f94045ec2
