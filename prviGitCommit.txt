@@ -1,8 +1,0 @@
-Test case: Testing cloning of a specific branch:
-Steps:
-1.Prepare a valid URL address of the repository and specify branch. 
-2.Check whether the repository is successfully cloned to the selected path and if the specified branch is cloned.
-Test case: Testing successful cloning of the main branch in this format (https://github.com/username/repository.git):
-Steps:
-1.Prepare a valid URL address of the repository - https://github.com/draskohimera/predavanje16.git
-2.Verify that the repository is successfully cloned to the selected path.
