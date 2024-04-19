@@ -22,7 +22,6 @@ def check_password_strength(password):
     if len(password) >= 8:
         score += 2
     return score
-
 def main():
     """Main function."""
     print("Welcome to the Password Generator and Strength Checker!")
